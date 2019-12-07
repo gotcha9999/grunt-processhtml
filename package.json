@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "async": "^1.5.2",
-    "htmlprocessor": "^0.2.4",
+    "htmlprocessor": "https://github.com/gotcha9999/node-htmlprocessor.git",
     "lodash": "^4.17.5"
   },
   "devDependencies": {
